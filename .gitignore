@@ -1,4 +1,5 @@
 node_modules
+garbage
 .env
 
 # Hardhat files
